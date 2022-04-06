@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eluvspa",
+  "private_key_id": "715b596aadd892487daa74694a7c5a121f9f41e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3aDNNXkpKlmLe\nK1RenRD8ivpSSjEqe7Ctjb+Q6NcfdNrbxt/RH494RGmuvfH9wW/gWFiptGSDH9p/\nKQmbpe5CPLofNRkbfU2lO8OfzWMpWImcA5H6VtIxpkaIRTEq6SRz/MAEkq24Te2G\no85pB0mHp6r33joF9lGob3IBLzxY9rs1izbl5QCL88Kquv9jq8CzybAOmrxLNLSF\npByrQ5eFon5yn0KWoaFnPh3eVgMxHG4Unn6hLkGfw3zZcX+pCbJIlwCQRC2GsGCG\nPXOSd4iKD08TenAkR5OvmA/3yQXBnY8oKMmTZ+X5gW43xzhmHmhiD9/DudgJZCER\nUvtYcBYPAgMBAAECggEATGzKO+oXkP8bkbKChK50fpe2+YVa+XXzSE6xzcOIqN37\nuOslJrI9CYOQejVCWlg5s0V9JLI70/v5A1XpYAeDwewmLozkunS7XygJO1TNhlQT\ne4RtVuDI09GSwIP8mgHuo7pllUI9y3gFiz5E67USqclvT7w1d3iNzF8sJVw2jGcH\nKF1XvZFYGBW/34KeTmwL7wAv8aI00QX5v9KedN4/ICBliAJFqPge+bXWUNrFly9L\nQnJwGdF2KE7ShFPkv2Vx0gIIzR9J571lxyBjKE1Gnn8EaGKeQH3jCKLoZQspNIhx\nR3FMrFMZNDtCk8wNcg6RY5h31SBIPBJPeEgSgKa+oQKBgQDgQqKXrGt5qucC+s9P\nzwG03p5nD1JXfcPqaF8qB3UhEKN8fupebV9HlHqhDL9/1iXybGBL3Q25mHNbRbwQ\nPiyEJHAwC+K2hF4RV9lxIzqsiDjwmdKkedwVW9hV6puFPVDEd35hQXS0t/RtbTOC\n2JRD5WWJh/73A1oYRC4EAJ6tcQKBgQDRXWBKwSMn+uVb2Xsye03A/34RuB8wn6F9\nmDosmvgrKPKePoO6CABnZhJQobHAF1ajr/0nrI4Y4+XBH9vIzDaW3ZMbZ/d4djil\nsz2By5j/yACByLealzrHu0maKTEn1vltw8YzbzWAIwiOjCOQOUsnMdBRLNCHryUG\n6V1yoC87fwKBgDbjGDhXEtbsZS3thN/bomdKNSq0LUsMlO7CLMh0ms5E7D6EMYh6\n7F7wkDLqk9QN7auvqsHmkH1kOpeUMbsn/G07HdokjpBtRTipb6apIKspjAYXH97x\nlFQF7qTYjsfFggcT1/KlupKgk0pU986Gg4M6medXSafbQim+RiTkofGBAoGAF/jp\nHaYfsGQ5/tpYEN+td3vJo53BdH/Srd7QSms0Hz0BCr19t79SzIQTdMgO4j/J29Q6\n2GAZpR/zHrnXIJbBaWTVgz3USCbBNbfgQwxc6GyuIi4pV7oZMOVw+AXfawBibv8L\norgJGDLqt+ez6r+kq0g44hKPjfmv86qk2Ise3WECgYATP1wJaa4aA5d4aeK0lZKv\nIi/dKNstSkejr4DfVTg6rscNjkS3ti8sBkkuKni4heMJqLGYgB33tfVANTZ2xf6t\n9dD82hmIufv41daxUthSp9janSX6GG3RpdEfV/Gam/k/dXr+IaFatpnlcc7oJmAf\ncDv3nBrMYjWDjnhBfea/Sw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "eluv-spa@eluvspa.iam.gserviceaccount.com",
+  "client_id": "117505735861252748259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eluv-spa%40eluvspa.iam.gserviceaccount.com"
+}
